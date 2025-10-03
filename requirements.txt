@@ -2,6 +2,7 @@ absl-py==2.3.1
 affine==2.4.0
 attrs==25.3.0
 certifi==2025.8.3
+charset-normalizer==3.4.3
 click==8.3.0
 click-plugins==1.1.1.2
 cligj==0.7.2
@@ -13,6 +14,7 @@ fonttools==4.60.1
 fsspec==2025.9.0
 geopandas==1.1.1
 grpcio==1.75.1
+idna==3.10
 Jinja2==3.1.6
 kiwisolver==1.4.9
 Markdown==3.9
@@ -32,6 +34,7 @@ pyproj==3.7.2
 python-dateutil==2.9.0.post0
 pytz==2025.2
 rasterio==1.4.3
+requests==2.32.5
 setuptools==80.9.0
 shapely==2.1.2
 six==1.17.0
@@ -42,4 +45,5 @@ tifffile==2025.9.30
 torch==2.8.0
 typing_extensions==4.15.0
 tzdata==2025.2
+urllib3==2.5.0
 Werkzeug==3.1.3
