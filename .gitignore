@@ -5,3 +5,7 @@ venv/
 # Fichiers Python compilés
 __pycache__/
 *.pyc
+
+#Trained models
+trained_models/*/*
+
